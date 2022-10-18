@@ -1,6 +1,6 @@
 # 🧑‍💻 Sobre o projeto !
 
-Este é o projeto final do nível 2 do programa, nele revemos todos os conceitos já aprendidos de forma prática deste  o HTML e CSS introdutório até questões de acessibilidade. 
+Este é o projeto onde revi todos os conceitos já aprendidos de forma prática deste  o HTML e CSS introdutório até questões de acessibilidade. 
 
 
 ## 💻 Demonstração
